@@ -1,3 +1,3 @@
 #pragma once
 
-int factorial( int number );
+int factorial(int number);
